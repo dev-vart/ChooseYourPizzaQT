@@ -1,3 +1,0 @@
-C:/Users/David/Documents/QT/OOP_Lab2_Buy_Pizza/build/Desktop_Qt_6_8_1_MinGW_64_bit-Release/CMakeFiles/CMakeScratch/TryCompile-w6qudm/CMakeFiles/cmTC_449ca.dir
-C:/Users/David/Documents/QT/OOP_Lab2_Buy_Pizza/build/Desktop_Qt_6_8_1_MinGW_64_bit-Release/CMakeFiles/CMakeScratch/TryCompile-w6qudm/CMakeFiles/edit_cache.dir
-C:/Users/David/Documents/QT/OOP_Lab2_Buy_Pizza/build/Desktop_Qt_6_8_1_MinGW_64_bit-Release/CMakeFiles/CMakeScratch/TryCompile-w6qudm/CMakeFiles/rebuild_cache.dir
